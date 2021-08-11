@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "/BudaIoana/vue-project-cv/public"
+    publicPath: "/BudaIoana/vue-project-cv/public/"
   }
